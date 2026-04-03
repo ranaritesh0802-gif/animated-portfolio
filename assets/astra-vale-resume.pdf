@@ -1,0 +1,85 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 853 >>
+stream
+BT
+/F2 22 Tf
+72 728 Td
+(Astra Vale) Tj
+/F1 11 Tf
+0 -24 Td
+(Creative Technologist | Portfolio Systems | Motion-First Web Experiences) Tj
+0 -36 Td
+(Email: hello@astravale.studio | Web: astravale.studio | Location: Remote) Tj
+/F2 15 Tf
+0 -42 Td
+(Profile) Tj
+/F1 11 Tf
+0 -20 Td
+(Creative technologist specializing in animated portfolio websites, editorial interfaces,) Tj
+0 -16 Td
+(and premium launch experiences with an emphasis on performance and accessibility.) Tj
+/F2 15 Tf
+0 -36 Td
+(Selected Strengths) Tj
+/F1 11 Tf
+0 -20 Td
+(- Motion systems, hover states, cursor effects, and page transitions) Tj
+0 -16 Td
+(- Responsive frontend architecture with semantic HTML and CSS tokens) Tj
+0 -16 Td
+(- Scroll storytelling, case study design, and launch-page strategy) Tj
+/F2 15 Tf
+0 -36 Td
+(Experience Highlights) Tj
+/F1 11 Tf
+0 -20 Td
+(- Delivered portfolio and editorial websites for studios, founders, and product teams) Tj
+0 -16 Td
+(- Built reduced-motion support and accessibility QA into interaction systems) Tj
+0 -16 Td
+(- Tuned projects for fast loading, mobile reliability, and clean developer handoff) Tj
+/F2 15 Tf
+0 -36 Td
+(Tooling) Tj
+/F1 11 Tf
+0 -20 Td
+(HTML, CSS, JavaScript, React, Next.js, GSAP, Framer Motion, Lottie, Figma) Tj
+/F2 15 Tf
+0 -36 Td
+(Availability) Tj
+/F1 11 Tf
+0 -20 Td
+(Available for selected freelance projects, portfolio redesigns, and launch-site builds.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000001146 00000 n 
+0000001216 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+1291
+%%EOF
